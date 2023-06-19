@@ -1,0 +1,148 @@
+.first{
+    height: 30vh;
+    background-color: #f6cf4f;
+    display: flex;
+}
+.first-left{
+    width: 50%;
+    height: 30vh;
+    background-color: #030303;
+}
+.first-right{
+    width: 50%;
+    height: 30vh;
+    background-color: #668c41;
+}
+.second{
+    height: 30vh;
+    background-color: #f64f5d;
+    display: flex;
+}
+.second-left{
+    width: 20%;
+    height: 30vh;
+    background-color: #ff8200;
+}
+.second-mid{
+    width: 60%;
+    height: 30vh;
+    background-color: #85418c;
+}
+.second-right{
+    width: 20%;
+    height: 30vh;
+    background-color: rgba(255, 255, 255, 0);
+}
+.third{
+    height: 30vh;
+    background-color: #4ff692;
+    display: flex;
+}
+.third-left{
+    width: 20%;
+    height: 30vh;
+    background-color: #f7ff00;
+}
+.third-mid1{
+    width: 30%;
+    height: 30vh;
+    background-color: #ee0202;
+}
+.third-mid2{
+    width: 30%;
+    height: 30vh;
+    background-color: #0010ff;
+}
+.third-right{
+    width: 20%;
+    height: 30vh;
+    background-color: #22ff00;
+}
+/*start of divs css*/
+
+/*Start of Cities css*/
+.header{
+    height: 30vh;
+    background-color: rgb(80, 78, 78);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.header h1{
+    font-size: 50px;
+    color: #a2a0a0;
+}
+/*End of Cities css*/
+
+/*Start of Body css*/
+.body{
+    min-height: 50vh;
+    display: flex;
+}
+.body-left{
+    width:20%;
+    background-color: #a2a0a0;
+}
+.body-left ol{
+    list-style-type: none;
+    padding-top: 40px;
+}
+.body-right{
+    width: 80% ;
+}
+.body-right h1{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.body-right p{
+    padding-left: 20px;
+}
+
+/*End of body css*/
+
+/*Start of Footer css*/
+.footer{
+    height: 30vh;
+    background-color: rgb(80, 78, 78);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer h4{
+    color: #a2a0a0;
+}
+/*End of Footer css*/
+
+.vertical{
+    border-width: thin;
+    height: 50px;
+    position: absolute;
+    left: 55%;
+}
+.intro-image{
+    width: 100%;
+}
+.btn1{
+    width: 300px;
+    height: 5%;
+}
+
+.footer-row {
+    min-height: 60vh;
+    background-image: url("../images/map6.jpg");
+    background-size: cover;
+    color: white;
+
+}
+.icon{
+    width: 15%;
+    height: 25%;
+}
+.calender{
+    width: 15%;
+    height: 8%;
+}
+.background{
+    background-image: url("../../startbootstrap-shop-homepage-gh-pages/images/kick2.png");
+}
